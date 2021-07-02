@@ -10,4 +10,4 @@
  
  ![Visitor Count](https://profile-counter.glitch.me/Coldwave96/count.svg)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldwave96&hide=html&layout=compact)](https://github.com/Coldwave96/github-readme-stats) | [![C01dSnap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coldwave96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Coldwave96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldwave96&hide=html&layout=compact)](https://github.com/Coldwave96/github-readme-stats) [![C01dSnap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coldwave96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Coldwave96/github-readme-stats)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Facebook](https://www.facebook.com/derick.han.18/) | [E-Mail](mailto:coldwave96@protonmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://coldwave96.github.io/)
+[E-Mail](mailto:c01dsnap.max@gmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://coldwave96.github.io/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=PocLibrary&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/PocLibrary) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=HackINonE&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/HackINonE)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=ConsoleDrawing&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/ConsoleDrawing) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=SimpleCompetitions&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/SimpleCompetitions) -->

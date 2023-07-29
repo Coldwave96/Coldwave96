@@ -2,11 +2,11 @@
 
 [E-Mail](mailto:c01dsnap.max@gmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://coldwave96.github.io/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=WebSecurity&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/WebSecurity) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=PwnProjects&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/PwnProjects)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=ConsoleDrawing&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/ConsoleDrawing) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coldwave96&repo=SimpleCompetitions&bg_color=30,adffff,7fffff)](https://github.com/Coldwave96/SimpleCompetitions) -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Coldwave96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="My github stats"/>
- -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coldwave96/Coldwave96/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coldwave96/Coldwave96/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coldwave96/Coldwave96/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Visitor Count](https://profile-counter.glitch.me/Coldwave96/count.svg)
  

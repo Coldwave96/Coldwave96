@@ -4,7 +4,7 @@
 [E-Mail](mailto:c01dsnap.max@gmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://coldwave96.github.io/)
 
 <!--   my-header-img -->
-![](./assets/header_.png)
+![](./header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker --> 
@@ -16,6 +16,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coldwave96/Coldwave96/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Visitor Count](https://profile-counter.glitch.me/Coldwave96/count.svg)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldwave96&hide=html,CSS&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Coldwave96/github-readme-stats) [![C01dSnap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coldwave96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Coldwave96/github-readme-stats)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![C01dSnap's github stats](https://github-readme-stats.vercel.app/api?username=Coldwave96&show_icons=true&theme=radical&include_all_commits=true) | ![C01dSnap's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldwave96&theme=radical&hide=html,CSS&layout=compact) |
+
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/Coldwave96/count.svg">

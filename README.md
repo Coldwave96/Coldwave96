@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--   connect-me --> 
-[E-Mail](mailto:c01dsnap.max@gmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://coldwave96.github.io/)
+[E-Mail](mailto:c01dsnap.max@gmail.com) | [Github](https://github.com/Coldwave96) | [Blog](https://blog.coldsnap.eu.org/)
 
 <!--   my-header-img -->
 ![](./header_.png)

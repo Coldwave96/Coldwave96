@@ -32,5 +32,4 @@
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="![](https://komarev.com/ghpvc/?username=Coldwave96)">
+![](https://komarev.com/ghpvc/?username=Coldwave96&style=for-the-badge)

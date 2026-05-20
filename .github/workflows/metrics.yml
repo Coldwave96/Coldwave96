@@ -27,7 +27,7 @@ jobs:
           # Options
           user: Coldwave96
           template: classic
-          base: activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15

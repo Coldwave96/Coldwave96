@@ -12,12 +12,51 @@
 
 <!--   my-skils -->
 
-| Property | Data |
-|---|---|
-| **Language / IDE** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=openjdk&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-3776AB?style=flat) ![Codex Badge](https://img.shields.io/badge/-Codex-3776AB?style=flat) |
-| **Domain Knownledge** | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-FF3333?style=flat) ![AI Badge](https://img.shields.io/badge/-Artificial%20Intelligence-01D277?style=flat) ![AI Infrastructure Badge](https://img.shields.io/badge/-AI%20Infrastructure-FAB040?style=flat) |
-| **CI / CD** | ![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker%20-2088FF?style=flat&logo=Docker&logoColor=white) |
-| **AI Related** | ![Nvidia DevEnv](http://img.shields.io/badge/-Nvidia%20DevEnv-eee?style=flat-square&logo=Nvidia&logoColor=F37626) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![LangGraph](http://img.shields.io/badge/-LangGraph-eee?style=flat-square&logo=langgraph&logoColor=e26d00) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td><b>Language / IDE</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Java-3776AB?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-VS%20Code-3776AB?style=flat" />
+      <img src="https://img.shields.io/badge/-Codex-3776AB?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Domain Knowledge</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Cybersecurity-FF3333?style=flat" />
+      <img src="https://img.shields.io/badge/-Artificial%20Intelligence-01D277?style=flat" />
+      <img src="https://img.shields.io/badge/-AI%20Infrastructure-FAB040?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CI / CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker%20-2088FF?style=flat&logo=Docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Related</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Nvidia%20DevEnv-eee?style=flat-square&logo=Nvidia&logoColor=F37626" />
+      <img src="https://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+      <img src="https://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+      <img src="https://img.shields.io/badge/-LangGraph-eee?style=flat-square&logo=langgraph&logoColor=e26d00" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 <picture>
@@ -26,10 +65,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coldwave96/Coldwave96/output/github-contribution-grid-snake.svg">
 </picture>
 
-| C01dSnap's github stats |
-|---|
-| ![Metrics](./github-metrics.svg) |
+<div align="center">
+  <br>
+  <h4>C01dSnap's github stats</h4>
+  <img src="./github-metrics.svg" alt="Metrics" />
+  <br>
+</div>
 
-#### Thanks for visiting :heart:
-
-![](https://komarev.com/ghpvc/?username=Coldwave96&style=for-the-badge)
+<div align="center">
+  <p>❤️ Thanks for visiting ❤️</p>
+  <img src="https://komarev.com/ghpvc/?username=Coldwave96&style=for-the-badge" alt="Profile views" />
+</div>
